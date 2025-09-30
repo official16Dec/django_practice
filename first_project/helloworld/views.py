@@ -7,3 +7,6 @@ def say_hello(request) :
 
 def welcome(request) :
     return HttpResponse("Welcome to Django!")
+
+def welcome_user(request, username) :
+    return HttpResponse(f"Welcome, {username}!")
