@@ -44,7 +44,7 @@ I have started learing about django-framework over python.
 
  ***Activate virtual environment***
 
- - `source myenv/bin/activate`
+ - `>source myenv/bin/activate`
 
  ***Install Django ***
 
@@ -63,6 +63,11 @@ I have started learing about django-framework over python.
 - This app will contain, it's own business logic.
 
 `>cd <main_project_directory>`
+
 `>django-admin startapp <app_name>`
 
 --------------------------------------------------------------------------------
+
+### views.py module
+
+* [](https://github.com/official16Dec/django_practice/wiki/A-fundamental-component-views.py-in-framework)
