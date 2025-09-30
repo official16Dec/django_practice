@@ -70,4 +70,4 @@ I have started learing about django-framework over python.
 
 ### views.py module
 
-* [](https://github.com/official16Dec/django_practice/wiki/A-fundamental-component-views.py-in-framework)
+* [A fundamental component views.py in framework](https://github.com/official16Dec/django_practice/wiki/A-fundamental-component-views.py-in-framework)
