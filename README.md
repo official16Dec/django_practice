@@ -52,6 +52,17 @@ I have started learing about django-framework over python.
 
  ***Perform create project command***
 
- - `django-admin startproject projectname`
+ - `>django-admin startproject projectname`
+
+--------------------------------------------------------------------------------
+
+### Creating app
+
+- The django project is a collection of apps.
+- We can create a separate modular app for a specific purpose.
+- This app will contain, it's own business logic.
+
+`>cd <main_project_directory>`
+`>django-admin startapp <app_name>`
 
 --------------------------------------------------------------------------------
