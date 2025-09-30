@@ -34,8 +34,24 @@ I have started learing about django-framework over python.
  - add/paste key to Git setting SSH section.
 
 
- --------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
- ## Creating first django project
+ ### Creating first django project
 
+ ***Setup virtual environment for the project***
 
+ - `>python3 -m venv myenv`
+
+ ***Activate virtual environment***
+
+ - `source myenv/bin/activate`
+
+ ***Install Django ***
+
+ - `>pip install django`
+
+ ***Perform create project command***
+
+ - `django-admin startproject projectname`
+
+--------------------------------------------------------------------------------
