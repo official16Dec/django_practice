@@ -71,3 +71,8 @@ I have started learing about django-framework over python.
 ### views.py module
 
 * [A fundamental component views.py in framework](https://github.com/official16Dec/django_practice/wiki/A-fundamental-component-views.py-in-framework)
+
+
+### Mapping the view to the URL
+
+* [urls.py](https://github.com/official16Dec/django_practice/wiki/Mapping-the-view-to-the-URL)
