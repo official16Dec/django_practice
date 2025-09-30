@@ -10,5 +10,8 @@ def welcome(request) :
 def welcome_user(request, username) :
     return HttpResponse("Welcome, {username}!")
 
-def hello_user(request) :
-    return render(request, 'hello.html')
+def hello_user(request, username) :
+    return render(request, 'hello.html', {'username': username})
+
+def show_my_cv(request) :
+    return render(request, 'my_cv.html', {})

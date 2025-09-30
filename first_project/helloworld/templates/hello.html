@@ -1,2 +1,8 @@
-<h1>Hello Sunil!</h1>
+<h1>Hello
+  <script>
+    const path = window.location.pathname;
+    const username = path.split('/')[2];
+    document.write(username);
+  </script>!
+</h1>
 <h1>Welcome to Django!</h1>
