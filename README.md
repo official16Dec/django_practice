@@ -27,6 +27,6 @@ I have started learing about django-framework over python.
 
 **Copy and add public to Git hosting** :
 
-  - copy : `>cat ~/.ssh/id_ed25519.pub`
+ - copy : `>cat ~/.ssh/id_ed25519.pub`
 
-  - add/paste key to Git setting SSH section.
+ - add/paste key to Git setting SSH section.
