@@ -1,6 +1,8 @@
 ## Django Learning
 I have started learing about django-framework over python.
 
+--------------------------------------------------------------------------------
+
 ### Configuring SSH to local project directory
 
 **Check for existing SSH keys** :
@@ -30,3 +32,10 @@ I have started learing about django-framework over python.
  - copy : `>cat ~/.ssh/id_ed25519.pub`
 
  - add/paste key to Git setting SSH section.
+
+
+ --------------------------------------------------------------------------------
+
+ ## Creating first django project
+
+
